@@ -1,0 +1,1 @@
+Official Model Context Protocol (MCP) server for AI-powered financial risk analysis. Monte Carlo simulations with fat-tail modeling (CVaR, VaR, ruin probability) for Claude Desktop, Cursor, Windsurf, Cline, Copilot. 8 tools: portfolio risk, startup equity, real estate, Kelly criterion betting. Proprietary KDE algorithm.

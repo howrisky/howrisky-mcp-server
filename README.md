@@ -4,7 +4,7 @@ Monte Carlo risk analysis for AI agents. Institutional-grade financial modeling 
 
 **8 Tools:** Portfolio risk (CVaR, ruin probability), startup equity, real estate, Kelly criterion betting, and more.
 
-**Compatible with:** Claude Desktop, ChatGPT Desktop, Cursor, Windsurf, Cline, GitHub Copilot, VS Code
+**Compatible with:** Claude Desktop, ChatGPT Desktop, Cursor, Windsurf, Cline, GitHub Copilot, VS Code, Codex
 
 ---
 

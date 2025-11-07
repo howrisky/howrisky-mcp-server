@@ -1,0 +1,43 @@
+{
+  "name": "howrisky-mcp-server",
+  "version": "1.0.0",
+  "description": "HowRisky MCP Server - Monte Carlo risk analysis for AI agents (Claude, ChatGPT, Cline, Copilot)",
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "monte-carlo",
+    "finance",
+    "risk-analysis",
+    "claude",
+    "chatgpt",
+    "cline",
+    "portfolio",
+    "cvar",
+    "tail-risk"
+  ],
+  "author": "Diogo Seca <diogo@howrisky.ai>",
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/howrisky/howrisky-mcp-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/howrisky/howrisky-mcp-server/issues"
+  },
+  "homepage": "https://howrisky.ai/mcp",
+  "bin": {
+    "howrisky-mcp": "./index.js"
+  },
+  "main": "./index.js",
+  "type": "module",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test/test.js"
+  }
+}
